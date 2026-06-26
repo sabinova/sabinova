@@ -4,7 +4,9 @@
 
 <br />
 
-[LinkedIn](https://www.linkedin.com/in/sabina-ruzieva/) · [Email](mailto:sabinaruzieva04@gmail.com) · [GitHub](https://github.com/sabinova)
+<a href="https://www.linkedin.com/in/sabina-ruzieva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:sabinaruzieva04@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+<a href="https://x.com/SabinaRzy" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X" /></a>
 
 </div>
 
