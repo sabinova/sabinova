@@ -27,7 +27,7 @@ AI/ML & Data Engineering · Python · SQL · GitHub
 
 ## Recent work
 
-Contributed **auto-response drafting** to a team capstone ([AI Email Triage](https://github.com/rimshatahir/ai-capstone-email-triage)) — designed LLM prompts, built the Flowise chain, and wired the n8n workflow into a human review queue. Forking the project next with an interactive demo (Streamlit / Tableau) to show the full flow.
+Contributed **auto-response drafting** to a team capstone ([AI Email Triage](https://github.com/sabinova/ai-capstone-email-triage)) — designed LLM prompts, built the Flowise chain, and wired the n8n workflow into a human review queue. Forking the project next with an interactive demo (Streamlit / Tableau) to show the full flow.
 
 ## Stats
 
