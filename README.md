@@ -16,8 +16,8 @@ I switched from a literature & linguistics degree to computer science — drawn 
 
 ## Stack
 
-Automation & integration · n8n · Flowise · Airtable · Groq · Hugging Face · GitHub  
-Data & code · Python · SQL
+Automation & integration · n8n · Flowise · Airtable · Groq · Hugging Face   
+AI/ML & Data Engineering · Python · SQL · GitHub
 
 ## Exploring
 
